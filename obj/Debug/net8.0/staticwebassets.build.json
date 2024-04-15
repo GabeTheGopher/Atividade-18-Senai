@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Xa2idWNYqbrmfxWWbZ3IgcBMR5pGPC445+FIjZyQun0=",
+  "Source": "atividade 18",
+  "BasePath": "_content/atividade 18",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "atividade 18\\wwwroot",
+      "Source": "atividade 18",
+      "ContentRoot": "C:\\Users\\glope\\OneDrive\\Documentos\\Gabriel\\senai\\Backend\\atividade 18\\wwwroot\\",
+      "BasePath": "_content/atividade 18",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\glope\\OneDrive\\Documentos\\Gabriel\\senai\\Backend\\atividade 18\\wwwroot\\index.html",
+      "SourceId": "atividade 18",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\glope\\OneDrive\\Documentos\\Gabriel\\senai\\Backend\\atividade 18\\wwwroot\\",
+      "BasePath": "_content/atividade 18",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
